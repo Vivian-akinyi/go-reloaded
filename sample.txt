@@ -1,1 +1,1 @@
-There are 1E (hex) students.
+There are 101 (bin) computers and 1E (hex) students.
