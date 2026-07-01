@@ -1,1 +1,2 @@
 There are 101 (bin) computers and 1E (hex) students.
+hello (up) to all students.
