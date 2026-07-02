@@ -7,5 +7,6 @@ func ProcessText(text string) string {
 	text = ProcessLower(text)
 	text = ProcessCap(text)
 	text = ProcessUpperMultiple(text)
+	text = ProcessLowerMultiple(text)
 	return text
 }
